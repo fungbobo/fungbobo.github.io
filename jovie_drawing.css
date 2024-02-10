@@ -17,6 +17,9 @@ h1 {
 
 .drawing-img {
   border: 5px solid white;
-  width: 500px;
+  width: 750px;
   height: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
+
